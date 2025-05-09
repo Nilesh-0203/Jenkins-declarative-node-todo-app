@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "nilesh0203/note-app:v1"
+    image: "nilesh0203/note-app"
     ports:
       - "8000:8000"
